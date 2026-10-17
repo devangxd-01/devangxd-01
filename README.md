@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋, I'm Devang
+🎓 MCA (AI & ML) Student at Invertis University
 
-<!--
-**devangxd-01/devangxd-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🌱 Learning Data Analytics & Machine Learning
+🐍 Python Developer
+📊 Aspiring Data Analyst
+💡 Interested in AI & Real-world Data Projects
+🛠 Tech Stack
+Python | SQL | Excel | Power BI | Git | GitHub
 
-Here are some ideas to get you started:
+📈 Current Goals
+✅ Master Python ✅ Build Analytics Portfolio ✅ Learn Machine Learning ✅ Get Data Analyst Internship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect With Me
+📧 devangxd01@gmail.com
